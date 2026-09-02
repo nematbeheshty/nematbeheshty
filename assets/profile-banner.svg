@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nematollah Beheshti</title>
+  <desc id="desc">SEO, WordPress, AI automation, e-commerce and computer networks</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.52" stop-color="#102a43"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1035" cy="80" r="230" fill="url(#glow)"/>
+  <circle cx="1120" cy="315" r="145" fill="none" stroke="#5eead4" stroke-opacity=".24" stroke-width="2"/>
+  <path d="M0 298 C240 246 344 350 588 291 S932 238 1200 284" fill="none" stroke="#5eead4" stroke-opacity=".23" stroke-width="2"/>
+  <rect x="72" y="68" width="154" height="34" rx="17" fill="#14b8a6" fill-opacity=".16" stroke="#5eead4" stroke-opacity=".55"/>
+  <text x="149" y="91" text-anchor="middle" fill="#99f6e4" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">DIGITAL BUILDER</text>
+  <text x="72" y="175" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing=".5">NEMATOLLAH BEHESHTI</text>
+  <text x="75" y="222" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="22">SEO · WordPress · AI Automation · E-commerce · Networks</text>
+  <rect x="75" y="260" width="78" height="5" rx="2.5" fill="#2dd4bf"/>
+  <text x="171" y="270" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1.2">BUILDING USEFUL SYSTEMS FOR REAL BUSINESSES</text>
+</svg>
