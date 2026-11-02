@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.svg" alt="Nematollah Beheshti — IT management, networks, SEO, WordPress, AI automation and e-commerce" width="100%" />
 </p>
 
-<h3 align="center">IT operations and digital growth systems—from infrastructure to search, content, commerce and automation</h3>
+<h3 align="center">SEO &amp; WordPress Specialist | WooCommerce &amp; Website UX | IT Infrastructure</h3>
 
 <p align="center">
   <a href="https://parsarena.com"><img src="https://img.shields.io/badge/Website-Pars_Arena-0f766e?style=flat-square" alt="Pars Arena website" /></a>
@@ -17,6 +17,27 @@ I work across two connected domains: **IT infrastructure and operations**, where
 My infrastructure background includes Microsoft-based servers, Proxmox and VMware ESXi virtualization, network backup, MikroTik RouterBOARD, wireless links, Cisco switches, Fortinet UTM, CCTV supervision, IP cameras and network infrastructure.
 
 من نعمت‌الله بهشتی هستم. مسیر حرفه‌ای من از پشتیبانی و مدیریت فناوری اطلاعات، سرور و شبکه آغاز شده و امروز در کنار آن روی سئو، تولید محتوا، وردپرس و ووکامرس، مدیریت فروشگاه اینترنتی و اتوماسیون مسئولانه با کمک هوش مصنوعی کار می‌کنم.
+
+## Work with me
+
+I help online stores and manufacturers improve WordPress websites through SEO, useful product content and clearer customer journeys.
+
+| Service | Typical deliverables |
+|---|---|
+| SEO and website review | Findings, priorities and a practical implementation plan |
+| Product and category optimization | Structured content, relevant internal links and clearer page layouts |
+| WordPress and WooCommerce improvements | Page implementation, catalog presentation and mobile usability |
+| Ongoing website support | Scoped improvements, change documentation and evidence-based follow-up |
+
+**Discuss a project:** [Contact me on LinkedIn](https://www.linkedin.com/in/nematbeheshty/). Share your website, the main problem and the work you need.
+
+<div dir="rtl">
+
+### همکاری پروژه‌ای
+
+برای بهبود سئو، طراحی صفحات وردپرسی و بهینه‌سازی فروشگاه‌های ووکامرسی همکاری می‌کنم. تجربهٔ فعلی من شامل سایت فروشگاهی پارس آرنا و سایت تولیدی آرمان صنعت توس است. برای شروع، نشانی سایت و نیاز اصلی کسب‌وکارتان را در لینکدین بفرستید تا دامنهٔ کار و خروجی مورد انتظار مشخص شود.
+
+</div>
 
 ## Areas of practice
 
@@ -33,6 +54,7 @@ My infrastructure background includes Microsoft-based servers, Proxmox and VMwar
 
 - **Project Supervisor — Sciences Green Inc:** smart-city project supervision in a context involving IoT, information security, communication and security systems
 - **Pars Arena:** ongoing WordPress, WooCommerce, SEO, product-content and e-commerce improvement work
+- **Arman Sanat Toos:** SEO, product and category content, internal linking and WordPress page improvements for a manufacturing business — [armanst.com](https://armanst.com)
 - **Pars Arena Newsbot:** documentation and security foundation for a source-aware Persian editorial workflow with human approval
 
 ## Experience timeline
@@ -62,6 +84,7 @@ Credential identifiers are intentionally not published.
 | Project | Contribution | Status |
 |---|---|---|
 | [Pars Arena](https://parsarena.com) | Technology e-commerce, WordPress, WooCommerce, SEO and content operations | Active |
+| [Arman Sanat Toos](https://armanst.com) | Manufacturing website, SEO, content and WordPress user-experience improvements | Active; measured outcomes not yet published |
 | [Pars Arena case study](./case-studies/pars-arena.md) | A transparent view of the ongoing digital workstreams | Documented |
 | Pars Arena Newsbot | Secure, source-aware Persian editorial automation with human approval | Foundation |
 | Network operations | Server, virtualization, network equipment and security-system support | Professional background |
