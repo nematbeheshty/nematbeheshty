@@ -52,7 +52,6 @@ I help online stores and manufacturers improve WordPress websites through SEO, u
 
 ## Current work
 
-- **Project Supervisor — Sciences Green Inc:** smart-city project supervision in a context involving IoT, information security, communication and security systems
 - **Pars Arena:** ongoing WordPress, WooCommerce, SEO, product-content and e-commerce improvement work
 - **Arman Sanat Toos:** SEO, product and category content, internal linking and WordPress page improvements for a manufacturing business — [armanst.com](https://armanst.com)
 - **Pars Arena Newsbot:** documentation and security foundation for a source-aware Persian editorial workflow with human approval
@@ -61,7 +60,7 @@ I help online stores and manufacturers improve WordPress websites through SEO, u
 
 | Period | Role | Organization |
 |---|---|---|
-| Aug 2023 – Present | Project Supervisor · Contract | Sciences Green Inc |
+| Aug 2023 – Mar 2025 | Project Supervisor · Contract | Sciences Green Inc |
 | Jan 2021 – Nov 2021 | Information Technology Supervisor · Full-time | Hamyaran Shomal Shargh |
 | Mar 2012 – Apr 2019 | Information Technology Manager | Gazar Industrial Submersible Pump |
 | Mar 2006 – Mar 2012 | IT Specialist | Ayandeh Sazan Cooperative |
