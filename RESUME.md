@@ -6,9 +6,19 @@
 
 IT professional with roles dating back to 2004 across technical support, IT management, server and network operations, and project supervision. Practical infrastructure experience includes Microsoft-based servers, Proxmox and VMware ESXi virtualization, network backup, MikroTik RouterBOARD, wireless equipment, Cisco switches, Fortinet UTM, CCTV and IP-camera infrastructure.
 
-Current areas of work also include SEO, content operations, WordPress, WooCommerce, e-commerce management and human-reviewed AI-assisted automation.
+Currently working on a project basis in SEO, WordPress website design and redesign, WooCommerce improvements and ongoing website support. Selected client work includes e-commerce, manufacturing and an orthopedic clinic website.
 
 ## Professional experience
+
+### SEO & WordPress Specialist — Project-based
+
+**Current · Independent client projects**
+
+- SEO reviews, content structure, on-page optimization and internal linking.
+- WordPress website design, redesign and ongoing support.
+- Product and category content, WooCommerce page improvements and website user experience.
+- Selected projects: Pars Arena, Arman Sanat Toos and Nik Teb Orthopedic Clinic.
+
 
 ### Project Supervisor — Sciences Green Inc
 
@@ -62,13 +72,21 @@ Early-career IT specialist role.
 - AI-assisted automation with human review and controlled publishing
 - Technical documentation and process design
 
-## Current projects
+## Selected projects
 
 ### Pars Arena
 
 Ongoing work across WordPress, WooCommerce, SEO, product content, editorial content and e-commerce operations for [parsarena.com](https://parsarena.com).
 
 [Read the public case study →](./case-studies/pars-arena.md)
+
+### Arman Sanat Toos
+
+SEO, product and category content, internal linking, WordPress page improvements and user experience for the manufacturing website [armanst.com](https://armanst.com).
+
+### Nik Teb Orthopedic Clinic
+
+Website redesign, WordPress support and SEO for [nike-teb.ir](https://nike-teb.ir).
 
 ### Pars Arena Newsbot
 
@@ -107,4 +125,4 @@ Credential identifiers are intentionally not published.
 
 ---
 
-Last reviewed: September 2026. This resume avoids unverified performance figures and does not publish private credential identifiers.
+Last updated: November 2026. This resume avoids unverified performance figures and does not publish private credential identifiers.
