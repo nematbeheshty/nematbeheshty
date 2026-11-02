@@ -52,8 +52,11 @@ I help online stores and manufacturers improve WordPress websites through SEO, u
 
 ## Current work
 
+**Project-based SEO, WordPress design and redesign, WooCommerce improvements and website support.**
+
 - **Pars Arena:** ongoing WordPress, WooCommerce, SEO, product-content and e-commerce improvement work
 - **Arman Sanat Toos:** SEO, product and category content, internal linking and WordPress page improvements for a manufacturing business — [armanst.com](https://armanst.com)
+- **Nik Teb Orthopedic Clinic:** website redesign, WordPress support and SEO — [nike-teb.ir](https://nike-teb.ir)
 - **Pars Arena Newsbot:** documentation and security foundation for a source-aware Persian editorial workflow with human approval
 
 ## Experience timeline
@@ -84,6 +87,7 @@ Credential identifiers are intentionally not published.
 |---|---|---|
 | [Pars Arena](https://parsarena.com) | Technology e-commerce, WordPress, WooCommerce, SEO and content operations | Active |
 | [Arman Sanat Toos](https://armanst.com) | Manufacturing website, SEO, content and WordPress user-experience improvements | Active; measured outcomes not yet published |
+| [Nik Teb Orthopedic Clinic](https://nike-teb.ir) | Website redesign, WordPress support and SEO | Client project |
 | [Pars Arena case study](./case-studies/pars-arena.md) | A transparent view of the ongoing digital workstreams | Documented |
 | Pars Arena Newsbot | Secure, source-aware Persian editorial automation with human approval | Foundation |
 | Network operations | Server, virtualization, network equipment and security-system support | Professional background |
