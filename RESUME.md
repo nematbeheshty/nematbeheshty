@@ -12,9 +12,9 @@ Current areas of work also include SEO, content operations, WordPress, WooCommer
 
 ### Project Supervisor — Sciences Green Inc
 
-**Contract · Aug 2023 – Present · Iran · On-site**
+**Contract · Aug 2023 – Mar 2025 · Iran · On-site**
 
-Project-supervision context includes smart-city initiatives and infrastructure related to the Internet of Things, information security, communication systems and security systems. The role focuses on supervising implementation performance while working with technology and local delivery teams.
+Project-supervision context includes smart-city initiatives and infrastructure related to the Internet of Things, information security, communication systems and security systems. The role focused on supervising implementation performance while working with technology and local delivery teams.
 
 ### Information Technology Supervisor — Hamyaran Shomal Shargh
 
